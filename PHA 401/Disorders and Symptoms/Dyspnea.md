@@ -1,0 +1,1 @@
+Medical term for shortness of breath or difficulty breathing

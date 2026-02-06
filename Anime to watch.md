@@ -1,0 +1,2 @@
+- [ ] Demon slayer: infinity castle
+- [ ] Full metal alchemist

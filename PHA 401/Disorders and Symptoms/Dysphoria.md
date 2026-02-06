@@ -1,0 +1,1 @@
+Dysphoria is a profound state of unease, dissatisfaction, or unhappiness, often characterized by feelings of frustration, anxiety, or restlessness. It is the opposite of euphoria

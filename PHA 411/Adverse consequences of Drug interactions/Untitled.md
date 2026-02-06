@@ -1,0 +1,1 @@
+Drug interaction is  measurable modification in magnitude or duration of the action of a drug by a prior or concomitant administration

@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "064ecc7fea8efda4",
+    "type": "split",
+    "children": [
+      {
+        "id": "48cac5388b2f7708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "911813fdf805d1cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCM 401/Immunity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Immunity"
+            }
+          },
+          {
+            "id": "de72311d99abefdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHA 403/Thyroid Hormones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thyroid Hormones"
+            }
+          },
+          {
+            "id": "9366fe3977c6072e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2db52c1f441febca",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f4f0d8bdb671a90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1a927bd2e7c2ccf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9b3993b24d921fba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6d766ebde554ddef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7a6ced41424e3e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d8a25699f16ea9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f49394634192a2b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b8399c39a2eafc5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "de068dc31885146d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a87fec9aeb6dbb5c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0f76be08c5a9981b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "de72311d99abefdc",
+  "lastOpenFiles": [
+    "PCM 401/Antigens and Antibodies.md",
+    "PHA 403/Thyroid Hormones.md",
+    "PHA 403/Hormonal Disorders.md",
+    "PHA 403/Course Outline.md",
+    "PHA 403/Adrenocorticotrophic Hormones, adrenal corticosteroids.md",
+    "PHA 401/ANXIOLYTIC AND HYPNOTIC DRUGS.md",
+    "PHA 401/CNS Stimulants.md",
+    "PHA 401/Convulsion and Anti-convulsant Drugs.md",
+    "PHA 401/Course Schedule.md",
+    "PHA 401/Local Anaesthetics.md",
+    "PHA 401/Neurodegenerative Disorders.md",
+    "PHA 401/Opioid Analgesics and Antagonists.md",
+    "PHA 401/Synaptic Transmission.md",
+    "PCM 401/Immunity.md",
+    "PCM 401/Complement System.md",
+    "chains-structure-antibody-immunoglobulin-molecule-light-unit 1.webp",
+    "chains-structure-antibody-immunoglobulin-molecule-light-unit.webp",
+    "Untitled.canvas",
+    "PHA 401/Disorders and Symptoms/Extrapyramidal Symptoms.md",
+    "Untitled.base",
+    "Gemini_Generated_Image_61qzdy61qzdy61qz.png",
+    "PHA 409/Models and Procedures.md",
+    "PHA 409/Course Outline.md",
+    "~$A409_CourseSchedule_Harmattan_2025_2026.docx",
+    "PHA409_CourseSchedule_Harmattan_2025_2026.docx",
+    "PHA 409",
+    "Anime to watch.md",
+    "PCM 401",
+    "2026-02-01.md",
+    "PHA 403",
+    "PHA 401/Antipsychotics.md",
+    "PHA 401/Disorders and Symptoms/Dysphoria.md",
+    "PHA 401/Disorders and Symptoms/Dyspnea.md",
+    "PHA 401/Neuropharmacology Drugs/Selegiline.md",
+    "PHA 401/Neuropharmacology Drugs/Haloperidol.md",
+    "PHA 401/Neuropharmacology Drugs/Desipramine.md",
+    "PHA 401/Disorders and Symptoms",
+    "PHA 411/Adverse consequences of Drug interactions",
+    "PHA 411"
+  ]
+}
