@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "911813fdf805d1cd",
+            "id": "de72311d99abefdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,33 +20,8 @@
               "icon": "lucide-file",
               "title": "Immunity"
             }
-          },
-          {
-            "id": "de72311d99abefdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHA 403/Thyroid Hormones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thyroid Hormones"
-            }
-          },
-          {
-            "id": "9366fe3977c6072e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,43 +184,44 @@
   "active": "de72311d99abefdc",
   "lastOpenFiles": [
     "PCM 401/Antigens and Antibodies.md",
-    "PHA 403/Thyroid Hormones.md",
-    "PHA 403/Hormonal Disorders.md",
-    "PHA 403/Course Outline.md",
+    "PHA 403/Diabetes and Antidiabetic drugs.md",
+    "PHA 403/403 Drugs/DPP-4 Inhibitors.md",
     "PHA 403/Adrenocorticotrophic Hormones, adrenal corticosteroids.md",
-    "PHA 401/ANXIOLYTIC AND HYPNOTIC DRUGS.md",
+    "PHA 403/403 Drugs/Metformin.md",
+    "PHA 403/Thyroid Hormones.md",
+    "PHA 403/Course Outline.md",
+    "PHA 409/Models and Procedures.md",
+    "PHA 401/Antipsychotics.md",
+    "PHA 403/Hormonal Disorders.md",
+    "PHA 403/Oral Contraceptives.md",
+    "PCM 401/Immunity.md",
+    "PCM 401/Complement System.md",
+    "PHA 403/403 Drugs/Sulfonylureas.md",
+    "PHA 403/403 Mechanisms/Incretin.md",
+    "PHA 403/403 Mechanisms",
+    "PHA 403/403 Drugs",
+    "PHA 401/Neuropharmacology Drug Classes/SSRIs (Selective Serotonin Reuptake Inhibitors).md",
+    "PHA 401/Neuropharmacology Drugs/Reserpine.md",
+    "PHA 401/Antidepressants.md",
     "PHA 401/CNS Stimulants.md",
+    "PHA 401/ANXIOLYTIC AND HYPNOTIC DRUGS.md",
+    "Anime to watch.md",
     "PHA 401/Convulsion and Anti-convulsant Drugs.md",
     "PHA 401/Course Schedule.md",
     "PHA 401/Local Anaesthetics.md",
     "PHA 401/Neurodegenerative Disorders.md",
     "PHA 401/Opioid Analgesics and Antagonists.md",
-    "PHA 401/Synaptic Transmission.md",
-    "PCM 401/Immunity.md",
-    "PCM 401/Complement System.md",
     "chains-structure-antibody-immunoglobulin-molecule-light-unit 1.webp",
     "chains-structure-antibody-immunoglobulin-molecule-light-unit.webp",
     "Untitled.canvas",
-    "PHA 401/Disorders and Symptoms/Extrapyramidal Symptoms.md",
     "Untitled.base",
     "Gemini_Generated_Image_61qzdy61qzdy61qz.png",
-    "PHA 409/Models and Procedures.md",
-    "PHA 409/Course Outline.md",
     "~$A409_CourseSchedule_Harmattan_2025_2026.docx",
     "PHA409_CourseSchedule_Harmattan_2025_2026.docx",
     "PHA 409",
-    "Anime to watch.md",
     "PCM 401",
-    "2026-02-01.md",
     "PHA 403",
-    "PHA 401/Antipsychotics.md",
-    "PHA 401/Disorders and Symptoms/Dysphoria.md",
-    "PHA 401/Disorders and Symptoms/Dyspnea.md",
-    "PHA 401/Neuropharmacology Drugs/Selegiline.md",
-    "PHA 401/Neuropharmacology Drugs/Haloperidol.md",
-    "PHA 401/Neuropharmacology Drugs/Desipramine.md",
     "PHA 401/Disorders and Symptoms",
-    "PHA 411/Adverse consequences of Drug interactions",
-    "PHA 411"
+    "PHA 411/Adverse consequences of Drug interactions"
   ]
 }

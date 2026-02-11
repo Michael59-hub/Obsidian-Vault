@@ -1,0 +1,1 @@
+Oral contraceptives are medications or birth control pills that are basically used to prevent pregnancy from occurring and cervical mucus thinking

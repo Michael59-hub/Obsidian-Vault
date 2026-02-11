@@ -21,7 +21,7 @@ These are the small, specific regions on antigens that act as the binding site t
 These are Y-shaped glycoproteins produced by plasma cells in response to an antigen.
 
 ### Structure
-![[chains-structure-antibody-immunoglobulin-molecule-light-unit.webp]]The variable(V) region located at the tips of both arms of the "Y" is the antigen binding site. This region is specific for each antibody and is responsible for recognising and binding to a single specific epitope on an antigen. It contains== Complementarity-Determining Regions (CDR)==.
+![[chains-structure-antibody-immunoglobulin-molecule-light-unit.webp]]The variable(V) region located at the tips of both arms of the "Y" is the antigen binding site. This region is specific for each antibody and is responsible for recognising and binding to a single specific epitope on an antigen. It contains ==Complementarity-Determining Regions (CDR)==.
 
 The Constant (C) region determines the antibody's isotype and its effector function(e.g. complement activation or binding to immune cells).
 

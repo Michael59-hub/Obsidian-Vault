@@ -1,4 +1,4 @@
-
+ 
 | Procedure  | Model                                    | Mechanism                                                                                                                                         | Read Out                                   | Tests                                          |
 | ---------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------- |
 | Psychosis  | Ketamine (Glutamatergic)                 | NMDA antagonist so it will mirror both the positive symptoms (agitation) and negative (social withdrawal/ cognitive impairment)                   | increased agitation and social withdrawal  |                                                |
