@@ -1,0 +1,1 @@
+An app that collects your notes and turn them into flashcards and also produces fill in the gap type questions.

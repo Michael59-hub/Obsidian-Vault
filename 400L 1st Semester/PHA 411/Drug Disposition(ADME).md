@@ -1,0 +1,1 @@
+Drug disposition refers to the fate of a drug after administration — how the body absorbs, distributes, metabolizes, and excretes it.

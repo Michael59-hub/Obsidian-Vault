@@ -4,24 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "48cac5388b2f7708",
+        "id": "25c0e580a6768211",
         "type": "tabs",
         "children": [
           {
-            "id": "de72311d99abefdc",
+            "id": "e7e58d6fdbbbd8b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCM 401/Immunity.md",
+                "file": "Web3/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Immunity"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "2620d7aba0319a62",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
+            "id": "f77e59336d0096f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seminar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seminar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,57 +198,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "omnisearch:Omnisearch": false
+      "bases:Create new base": false
     }
   },
-  "active": "de72311d99abefdc",
+  "active": "a1a927bd2e7c2ccf",
   "lastOpenFiles": [
-    "PCM 401/Antigens and Antibodies.md",
-    "PHA 403/Diabetes and Antidiabetic drugs.md",
-    "PHA 403/403 Drugs/DPP-4 Inhibitors.md",
-    "PHA 403/Adrenocorticotrophic Hormones, adrenal corticosteroids.md",
-    "PHA 403/403 Drugs/Metformin.md",
-    "PHA 403/Thyroid Hormones.md",
-    "PHA 403/Course Outline.md",
-    "PHA 409/Models and Procedures.md",
-    "PHA 401/Antipsychotics.md",
-    "PHA 403/Hormonal Disorders.md",
-    "PHA 403/Oral Contraceptives.md",
-    "PCM 401/Immunity.md",
-    "PCM 401/Complement System.md",
-    "PHA 403/403 Drugs/Sulfonylureas.md",
-    "PHA 403/403 Mechanisms/Incretin.md",
-    "PHA 403/403 Mechanisms",
-    "PHA 403/403 Drugs",
-    "PHA 401/Neuropharmacology Drug Classes/SSRIs (Selective Serotonin Reuptake Inhibitors).md",
-    "PHA 401/Neuropharmacology Drugs/Reserpine.md",
-    "PHA 401/Antidepressants.md",
-    "PHA 401/CNS Stimulants.md",
-    "PHA 401/ANXIOLYTIC AND HYPNOTIC DRUGS.md",
+    "400L 2nd Semester/PHA 402",
+    "400L 2nd Semester/Untitled.md",
+    "Seminar.md",
+    "400L 2nd Semester",
+    "400L 1st Semester",
+    "Web3/Untitled.md",
+    "App Ideas.md",
+    "Web3",
+    "400L 1st Semester/PHA 405/Kinetics and Pharmacokinetic Parameters.md",
+    "400L 1st Semester/PHA 403/Diabetes and Antidiabetic drugs.md",
+    "400L 1st Semester/PHA 403/Hormonal Disorders.md",
+    "400L 1st Semester/PHA 403/Oral Contraceptives.md",
+    "400L 1st Semester/PHA 403/Thyroid Hormones.md",
+    "400L 1st Semester/PHA 401/Body Constituents/BDNF(Brain derived Neurotrophic Factor).md",
+    "400L 1st Semester/PHA 401/Neuropharmacology Drugs/Benzocaine.md",
+    "400L 1st Semester/PHA 401/Neuropharmacology Drugs/Cocaine.md",
+    "400L 1st Semester/PHA 401/Neuropharmacology Drugs/Escitalopram.md",
+    "400L 1st Semester/PHA 401/Local Anaesthetics.md",
+    "400L 1st Semester/PHA 401/Neurodegenerative Disorders.md",
     "Anime to watch.md",
-    "PHA 401/Convulsion and Anti-convulsant Drugs.md",
-    "PHA 401/Course Schedule.md",
-    "PHA 401/Local Anaesthetics.md",
-    "PHA 401/Neurodegenerative Disorders.md",
-    "PHA 401/Opioid Analgesics and Antagonists.md",
+    "2026-03-02.md",
+    "400L 1st Semester/PHA 407/Excitation-Contraction Coupling.md",
+    "400L 1st Semester/PHA 407/Contractile Proteins and Pharmacological Modulation.md",
+    "400L 1st Semester/PHA 407/Myasthenia Gravis.md",
+    "400L 1st Semester/PHA 407/Biological Membrane Pharmacology.md",
+    "400L 1st Semester/PHA 407/Experimental Methodologies In Membrane Function And Drug Studies.md",
+    "400L 1st Semester/PHA 407/Kidney Ion Transport and Pharmacotherapy.md",
+    "8ca1ae55dd6451b4c4d74e03633d65075b71389ab12168.04263800Nephron.png",
+    "400L 1st Semester/PHA 411/Phase II Reactions.md",
+    "400L 1st Semester/PHA 407",
+    "400L 1st Semester/PHA 411/General Notes.md",
+    "400L 1st Semester/PHA 405",
+    "400L 1st Semester/PHA 403/403 Mechanisms",
+    "400L 1st Semester/PHA 403/403 Drugs",
     "chains-structure-antibody-immunoglobulin-molecule-light-unit 1.webp",
     "chains-structure-antibody-immunoglobulin-molecule-light-unit.webp",
     "Untitled.canvas",
     "Untitled.base",
     "Gemini_Generated_Image_61qzdy61qzdy61qz.png",
     "~$A409_CourseSchedule_Harmattan_2025_2026.docx",
-    "PHA409_CourseSchedule_Harmattan_2025_2026.docx",
-    "PHA 409",
-    "PCM 401",
-    "PHA 403",
-    "PHA 401/Disorders and Symptoms",
-    "PHA 411/Adverse consequences of Drug interactions"
+    "PHA409_CourseSchedule_Harmattan_2025_2026.docx"
   ]
 }

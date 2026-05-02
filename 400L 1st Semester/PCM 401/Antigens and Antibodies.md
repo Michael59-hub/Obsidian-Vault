@@ -53,7 +53,7 @@ Antigens with high avidity (IgM) can cross link antigens into large, visible clu
 
 ### ABO Blood Group System
 - Landsteiner's law
-- IgM in blood are often referred to as isohemagglutinins
+- IgM in blood are often referred to as ==isohemagglutinins==.
 
 
 ### Rh Blood Group System

@@ -1,0 +1,19 @@
+name: Sync to Drive
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Upload to Google Drive
+        uses: Jumbo810/Upload_Github_Artifacts_TO_GDrive@v2.3.4
+        with:
+          target: "./*" # This uploads everything in your repo
+          credentials: ${{ secrets.GDRIVE_CREDENTIALS }}
+          parent_folder_id: "YOUR_FOLDER_ID_HERE"
+          replace_mode: "update_in_place" # Keeps files current rather than creating duplicates

@@ -1,0 +1,3 @@
+- Propionibacterium(cutibacterium) acnes- Causes acne. Lives in hair follicles and sebaceous glands
+- Malassezia spp- Associated with dandruff
+- Clostridium difficle- Causes colitis. Present in small amounts in the intestines normally
