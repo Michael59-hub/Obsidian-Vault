@@ -15,12 +15,10 @@ jobs:
 
       - name: Rclone Sync
         env:
-          # We pass the secret as an environment variable to avoid shell escaping issues
           RCLONE_CONFIG_GDRIVE_TYPE: drive
           RCLONE_CONFIG_GDRIVE_SCOPE: drive
-          RCLONE_CONFIG_GDRIVE_SERVICE_ACCOUNT_CREDENTIALS: ${{ secrets.GDRIVE_JSON }}
-          # Put your Google Drive Folder ID here
-          RCLONE_CONFIG_GDRIVE_ROOT_FOLDER_ID: "19v3QohLRGo9p7upWssWsxoKuMTanYOj_"
+          RCLONE_CONFIG_GDRIVE_TOKEN: ${{ secrets.RCLONE_CONFIG_GDRIVE_TOKEN }}
+          RCLONE_CONFIG_GDRIVE_ROOT_FOLDER_ID: 19v3QohLRGo9p7upWssWsxoKuMTanYOj_
         run: |
           # We don't even need a config file now! 
           # Rclone can read everything from these environment variables.
