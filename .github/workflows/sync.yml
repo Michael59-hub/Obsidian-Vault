@@ -10,19 +10,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Rclone
-        run: |
-          # Install rclone if not present (usually is, but let's be safe)
-          sudo apt-get update && sudo apt-get install -y rclone
-          
-          # Create the rclone config directory
-          mkdir -p ~/.config/rclone
-          
-          # Write the secret directly to the config file
-          echo "${{ secrets.RCLONE_CONFIG_DATA }}" > ~/.config/rclone/rclone.conf
+      - name: Install Rclone
+        run: sudo apt-get update && sudo apt-get install -y rclone
 
       - name: Rclone Sync
+        env:
+          # We pass the secret as an environment variable to avoid shell escaping issues
+          RCLONE_CONFIG_GDRIVE_TYPE: drive
+          RCLONE_CONFIG_GDRIVE_SCOPE: drive
+          RCLONE_CONFIG_GDRIVE_SERVICE_ACCOUNT_CREDENTIALS: ${{ secrets.GDRIVE_JSON }}
+          # Put your Google Drive Folder ID here
+          RCLONE_CONFIG_GDRIVE_ROOT_FOLDER_ID: "19v3QohLRGo9p7upWssWsxoKuMTanYOj_"
         run: |
-          # Use the 'gdrive' remote we defined in the secret
-          # -v is for verbose so you can see the files moving
+          # We don't even need a config file now! 
+          # Rclone can read everything from these environment variables.
           rclone sync . gdrive: -v --drive-use-trash --exclude ".git/**" --exclude ".github/**"
