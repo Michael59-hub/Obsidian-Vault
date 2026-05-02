@@ -10,11 +10,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install Rclone
-        uses: rclone/rclone-action@v1
-        with:
-          config-data: ${{ secrets.RCLONE_CONFIG_DATA }}
+      - name: Setup Rclone
+        run: |
+          # Install rclone if not present (usually is, but let's be safe)
+          sudo apt-get update && sudo apt-get install -y rclone
+          
+          # Create the rclone config directory
+          mkdir -p ~/.config/rclone
+          
+          # Write the secret directly to the config file
+          echo "${{ secrets.RCLONE_CONFIG_DATA }}" > ~/.config/rclone/rclone.conf
 
       - name: Rclone Sync
         run: |
-          rclone sync . gdrive: -v --drive-use-trash
+          # Use the 'gdrive' remote we defined in the secret
+          # -v is for verbose so you can see the files moving
+          rclone sync . gdrive: -v --drive-use-trash --exclude ".git/**" --exclude ".github/**"
